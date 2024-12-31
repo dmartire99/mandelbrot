@@ -1,0 +1,1 @@
+C:\dev\MandelBrot\mandelbrot\x64\Release\mandelbrot.exe
