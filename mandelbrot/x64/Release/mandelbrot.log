@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\dev\MandelBrot\mandelbrot\main.cpp(123,16): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
-C:\dev\MandelBrot\mandelbrot\main.cpp(129,13): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
-C:\dev\MandelBrot\mandelbrot\main.cpp(131,14): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
-  Generating code
-  Compiler version has changed, fall back to full compilation.
-  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  mandelbrot.vcxproj -> C:\dev\MandelBrot\mandelbrot\x64\Release\mandelbrot.exe
